@@ -1,4 +1,4 @@
-#README
+# README
 
 How to use the server and client:
 
